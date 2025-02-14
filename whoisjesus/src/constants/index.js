@@ -95,10 +95,10 @@ export const navLinks = [
       ],
     },
     {
-      title: 'Iphone LandingPage - (Animaciones)',
-      desc: '',
+      title: 'iPhone Landing Page - Animaciones Interactivas',
+      desc: 'Un proyecto frontend que replica la experiencia UX/UI de la landing page del iPhone 15 con animaciones avanzadas.',
       subdesc:
-        'Incluye animaciones personalizadas sin librerías externas, como transiciones entre elementos y un menú con efecto "Slide In". Se centra en la experiencia de usuario y la optimización del rendimiento del frontend.',
+        'Desarrollado con Three.js, GSAP y Tailwind sobre React, este proyecto ha sido creado siguiendo un tutorial para profundizar mis conocimientos en estas tecnologías y perfeccionar mis habilidades en animaciones web.',
       href: 'https://iphone-threejs-mu.vercel.app/',
       texture: '/textures/project/project2.mp4',
       logo: '/assets/project-logo2.png',
@@ -116,19 +116,14 @@ export const navLinks = [
         },
         {
           id: 2,
-          name: 'Mongo DB',
-          path: 'assets/mongodb.png',
+          name: 'Three.js',
+          path: 'assets/three.svg',
         },
         {
           id: 3,
-          name: 'Express Js',
-          path: '/assets/expressjs.png',
-        },
-        {
-          id: 4,
-          name: 'Node Js',
-          path: '/assets/nodejs.png',
-        },
+          name: 'Tailwind CSS',
+          path: '/assets/tailwindcss.png',
+        }
       ],
     },
     {
