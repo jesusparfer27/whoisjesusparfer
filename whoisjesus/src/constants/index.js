@@ -156,7 +156,7 @@ export const navLinks = [
         {
           id: 3,
           name: 'Tailwind CSS',
-          path: '/assets/tailwind.png',
+          path: '/assets/tailwindcss.png',
         },
         {
           id: 4,
