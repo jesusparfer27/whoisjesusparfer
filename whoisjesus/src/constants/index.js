@@ -127,10 +127,10 @@ export const navLinks = [
       ],
     },
     {
-      title: 'Single Page - Actividad',
-      desc: 'Proyecto de Frontend para organizar y visualizar datos desde un archivo JSON de manera dinámica.',
+      title: 'Acortador de URLs - Actividad',
+      desc: 'Proyecto FullStack desarrollado con Next.js, Tailwind.css y TypeScript',
       subdesc:
-        'Se estructura la información en formato JSON y se asignan estilos mediante clases CSS predefinidas, optimizando la reusabilidad del código y mejorando la mantenibilidad del proyecto.',
+        'Este codigo es de una clase de youtube para aprender tecnologías como Next.js y TypeScript y mejorar mis habilidades con TailwindCSS, Aqui aprendo cuales son las logicas de unn acrotador de URLs',
       href: 'https://vercel.com/jesusparfers-projects/entornos-vercel-react',
       texture: '/textures/project/project3.mp4',
       logo: '/assets/project-logo3.png',
@@ -150,18 +150,18 @@ export const navLinks = [
         },
         {
           id: 2,
-          name: 'Mongo DB',
-          path: 'assets/mongodb.png',
+          name: 'TypeScript',
+          path: 'assets/typescript.png',
         },
         {
           id: 3,
-          name: 'Express Js',
-          path: '/assets/expressjs.png',
+          name: 'Tailwind CSS',
+          path: '/assets/tailwind.png',
         },
         {
           id: 4,
-          name: 'Node Js',
-          path: '/assets/nodejs.png',
+          name: 'Next.js',
+          path: '/assets/next.png',
         },
       ],
     },
