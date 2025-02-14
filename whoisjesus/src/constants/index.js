@@ -117,7 +117,7 @@ export const navLinks = [
         {
           id: 2,
           name: 'Three.js',
-          path: 'assets/three.svg',
+          path: 'assets/three.png',
         },
         {
           id: 3,
