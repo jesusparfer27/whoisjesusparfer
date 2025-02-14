@@ -59,9 +59,9 @@ export const navLinks = [
   export const myProjects = [
     {
       title: 'Jundium - Proyecto Final',
-      desc: 'Es una plataforma de comercio en linea incluyendo un panel de administración para la persona propietaria de la web.',
+      desc: 'Plataforma de comercio en línea con un panel de administración completo para la gestión de productos, usuarios y pedidos.',
       subdesc:
-        'Esta desarrollada con el stack MERN sin el uso de librerias, tiene un sistema de registro de usuarios y de productos agregados a wishlist y al carrito. Además de un sistema para crear y actualizar productos y variantes ',
+        'Desarrollado con el stack MERN sin librerías externas. Implementa un sistema de registro y autenticación de usuarios, además de funcionalidades como wishlist, carrito de compras y administración de productos con variantes.',
       href: 'https://jundium-shopping-software-front.vercel.app/',
       texture: '/textures/project/project1.mp4',
       logo: '/assets/project-logo1.png',
@@ -95,11 +95,11 @@ export const navLinks = [
       ],
     },
     {
-      title: 'Prueba Junior - Actividad',
-      desc: 'Es una pequeña aplicación donde donde toco el stack MERN pero haciendo un uso sencillo para llamar a la información de Mongo desde el Front',
+      title: 'Iphone LandingPage - (Animaciones)',
+      desc: '',
       subdesc:
-        'En esta prueba en la que desarrollo el frontend con React realizo ciertas animaciones sin el uso de librerias como por ejemplo la transición de la llamada entre un mueble y otro y el layout de hace Slide In al interactuar con el Menú del Header.',
-      href: 'https://vercel.com/jesusparfers-projects/junior-technical-test-front',
+        'Incluye animaciones personalizadas sin librerías externas, como transiciones entre elementos y un menú con efecto "Slide In". Se centra en la experiencia de usuario y la optimización del rendimiento del frontend.',
+      href: 'https://iphone-threejs-mu.vercel.app/',
       texture: '/textures/project/project2.mp4',
       logo: '/assets/project-logo2.png',
       logoStyle: {
@@ -133,9 +133,9 @@ export const navLinks = [
     },
     {
       title: 'Single Page - Actividad',
-      desc: 'Una actividad de Frontend que llama a los valores de las propiedades y acomodamos con unas clases que tienen unos estilos definidos para hacer el codigo más dinámico.',
+      desc: 'Proyecto de Frontend para organizar y visualizar datos desde un archivo JSON de manera dinámica.',
       subdesc:
-        'El objetivo era organizar ciertos valores en formato JSON y definirlos en variables para posteriormente añadirlas en el frontend llamando al archivo JSON.',
+        'Se estructura la información en formato JSON y se asignan estilos mediante clases CSS predefinidas, optimizando la reusabilidad del código y mejorando la mantenibilidad del proyecto.',
       href: 'https://vercel.com/jesusparfers-projects/entornos-vercel-react',
       texture: '/textures/project/project3.mp4',
       logo: '/assets/project-logo3.png',
@@ -172,9 +172,9 @@ export const navLinks = [
     },
     {
       title: 'Simulación de Tienda - Actividad',
-      desc: 'Esta es una practica básica desarrollada con React en la que creo componentes dinamicos para cada objeto de distintas APIs.',
+      desc: 'Aplicación básica en React para simular una tienda en línea mediante consumo de APIs externas.',
       subdesc:
-        'En esta actividad se hace uso de promesas, try & catch',
+        'Se implementan promesas, manejo de errores con try & catch y se crean componentes dinámicos para visualizar los productos obtenidos de distintas fuentes de datos.',
       href: 'https://promesas-vercel-react.vercel.app/',
       texture: '/textures/project/project4.mp4',
       logo: '/assets/project-logo4.png',
