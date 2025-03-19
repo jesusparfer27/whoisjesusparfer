@@ -189,8 +189,8 @@ export const navLinks = [
         },
         {
           id: 2,
-          name: 'TypeScript',
-          path: 'assets/typescript.png',
+          name: 'Express.js',
+          path: 'assets/expressjs.png',
         },
         {
           id: 3,
@@ -199,16 +199,20 @@ export const navLinks = [
         },
         {
           id: 4,
-          name: 'Next.js',
-          path: '/assets/next.png',
+          name: 'Mongo DB',
+          path: '/assets/mongodb.png',
+        },
+        {
+          id: 4,
+          name: 'Node.js',
+          path: '/assets/nodejs.png',
         },
       ],
     },
     {
-      title: 'Landing Page - Actividad de diseño',
-      desc: 'Proyecto FullStack desarrollado con Next.js, Tailwind.css y TypeScript',
-      subdesc:
-        'Este codigo es de una clase de youtube para aprender tecnologías como Next.js y TypeScript y mejorar mis habilidades con TailwindCSS, Aqui aprendo cuales son las logicas de unn acrotador de URLs',
+      title: 'Single Page - Animación y Diseño Interactivo',
+      desc: 'Proyecto FullStack desarrollado con el stack MERN, centrado en la implementación de animaciones fluidas con GSAP. Además, integra una base de datos en MongoDB para gestionar la información de manera dinámica.',
+      subdesc: 'Este proyecto surge de una clase en YouTube enfocada en el aprendizaje de tecnologías como Next.js y TypeScript, combinadas con TailwindCSS para el diseño. También explora la lógica detrás de un acortador de URLs, mejorando la comprensión de arquitecturas web modernas.',
       href: 'https://gsap-ui-cei.vercel.app/',
       texture: '/textures/project/project4.mp4',
       logo: '/assets/project-logo3.png',
