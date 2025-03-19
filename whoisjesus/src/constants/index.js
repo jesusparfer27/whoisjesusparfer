@@ -55,6 +55,45 @@ export const navLinks = [
         'Adrian was a pleasure to work with. He understood our requirements perfectly and delivered a website that exceeded our expectations. His skills in both frontend backend dev are top-notch.',
     },
   ];
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   
   export const myProjects = [
     {
@@ -170,8 +209,8 @@ export const navLinks = [
       desc: 'Proyecto FullStack desarrollado con Next.js, Tailwind.css y TypeScript',
       subdesc:
         'Este codigo es de una clase de youtube para aprender tecnologías como Next.js y TypeScript y mejorar mis habilidades con TailwindCSS, Aqui aprendo cuales son las logicas de unn acrotador de URLs',
-      href: 'https://entornos-vercel-react.vercel.app/',
-      texture: '/textures/project/project3.mp4',
+      href: 'https://gsap-ui-cei.vercel.app/',
+      texture: '/textures/project/project4.mp4',
       logo: '/assets/project-logo3.png',
       logoStyle: {
         backgroundColor: '#60f5a1',
@@ -205,12 +244,11 @@ export const navLinks = [
       ],
     },
     {
-      title: 'Simulación de Tienda - Actividad',
-      desc: 'Aplicación básica en React para simular una tienda en línea mediante consumo de APIs externas.',
-      subdesc:
-        'Se implementan promesas, manejo de errores con try & catch y se crean componentes dinámicos para visualizar los productos obtenidos de distintas fuentes de datos.',
-      href: 'https://promesas-vercel-react.vercel.app/',
-      texture: '/textures/project/project4.mp4',
+      title: 'Landing Page - MERN Stack',
+      desc: "Proyecto de Single Page Application (SPA) en el que almaceno y organizo el contenido mediante un archivo JSON. Desde React, consumo estos datos para renderizar dinámicamente los elementos de la interfaz, optimizando la gestión de contenido sin necesidad de modificar el código base constantemente.",
+      subdesc: "El proyecto implementa React para el frontend y utiliza Express.js y Node.js en el backend para servir los datos almacenados en un archivo JSON. Se aplican promesas y manejo de errores con try & catch para garantizar una carga de datos robusta. La estructura modular del código permite crear componentes reutilizables, mejorando la escalabilidad del desarrollo. Además, la integración con Vercel facilita la implementación y el despliegue continuo.",
+      href: 'https://entornos-vercel-react.vercel.app/',
+      texture: '/textures/project/project5.mp4',
       logo: '/assets/project-logo4.png',
       logoStyle: {
         backgroundColor: '#0E1F38',
@@ -223,25 +261,56 @@ export const navLinks = [
           id: 1,
           name: 'React.js',
           path: '/assets/react.svg',
-        },
-        {
-          id: 2,
-          name: 'Mongo DB',
-          path: 'assets/mongodb.png',
-        },
-        {
-          id: 3,
-          name: 'Express Js',
-          path: '/assets/expressjs.png',
-        },
-        {
-          id: 4,
-          name: 'Node Js',
-          path: '/assets/nodejs.png',
-        },
+        }
       ],
     }
   ];
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   
   export const calculateSizes = (isSmall, isMobile, isTablet) => {
     return {
