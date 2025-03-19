@@ -228,8 +228,8 @@ export const navLinks = [
         },
         {
           id: 2,
-          name: 'TypeScript',
-          path: 'assets/typescript.png',
+          name: 'Node.js',
+          path: 'assets/nodejs.png',
         },
         {
           id: 3,
@@ -238,8 +238,13 @@ export const navLinks = [
         },
         {
           id: 4,
-          name: 'Next.js',
-          path: '/assets/next.png',
+          name: 'Express.js',
+          path: '/assets/expressjs.png',
+        },
+        {
+          id: 4,
+          name: 'Mongo DB',
+          path: '/assets/mongodb.png',
         },
       ],
     },
