@@ -128,10 +128,49 @@ export const navLinks = [
     },
     {
       title: 'Acortador de URLs - Actividad',
+      desc: 'Proyecto FullStack desarrollado con el stack MERN para acortar URLs y almacenarlas en una base de datos.',
+      subdesc:
+        'Este proyecto ha sido desarrollado obteniendo los onocimientos de un video tutorial para desarrollar un acortador de URLs con Node.js, React y supabase, pero lo he adaptado a mis necesidades y conocimientos como por ejemplo el uso de MongoDB y sin la necesidad de registrarse. Para desarrollar la interfaz se ha usado TailwindCSS y Chadcn.',
+      href: 'https://eazyshortz.vercel.app/',
+      texture: '/textures/project/project3.mp4',
+      logo: '/assets/project-logo3.png',
+      logoStyle: {
+        backgroundColor: '#60f5a1',
+        background:
+          'linear-gradient(0deg, #60F5A150, #60F5A150), linear-gradient(180deg, rgba(255, 255, 255, 0.9) 0%, rgba(208, 213, 221, 0.8) 100%)',
+        border: '0.2px solid rgba(208, 213, 221, 1)',
+        boxShadow: '0px 0px 60px 0px rgba(35, 131, 96, 0.3)',
+      },
+      spotlight: '/assets/spotlight3.png',
+      tags: [
+        {
+          id: 1,
+          name: 'React.js',
+          path: '/assets/react.svg',
+        },
+        {
+          id: 2,
+          name: 'TypeScript',
+          path: 'assets/typescript.png',
+        },
+        {
+          id: 3,
+          name: 'Tailwind CSS',
+          path: '/assets/tailwindcss.png',
+        },
+        {
+          id: 4,
+          name: 'Next.js',
+          path: '/assets/next.png',
+        },
+      ],
+    },
+    {
+      title: 'Landing Page - Actividad de diseño',
       desc: 'Proyecto FullStack desarrollado con Next.js, Tailwind.css y TypeScript',
       subdesc:
         'Este codigo es de una clase de youtube para aprender tecnologías como Next.js y TypeScript y mejorar mis habilidades con TailwindCSS, Aqui aprendo cuales son las logicas de unn acrotador de URLs',
-      href: 'https://vercel.com/jesusparfers-projects/entornos-vercel-react',
+      href: 'https://entornos-vercel-react.vercel.app/',
       texture: '/textures/project/project3.mp4',
       logo: '/assets/project-logo3.png',
       logoStyle: {
