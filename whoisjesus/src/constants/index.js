@@ -261,6 +261,16 @@ export const navLinks = [
           id: 1,
           name: 'React.js',
           path: '/assets/react.svg',
+        },
+        {
+          id: 1,
+          name: 'Express.js',
+          path: '/assets/expressjs.png',
+        },
+        {
+          id: 1,
+          name: 'Node.js',
+          path: '/assets/nodejs.png',
         }
       ],
     }
