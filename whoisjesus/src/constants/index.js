@@ -212,7 +212,7 @@ export const navLinks = [
     {
       title: 'Single Page - Animación y Diseño Interactivo',
       desc: 'Proyecto FullStack desarrollado con el stack MERN, centrado en la implementación de animaciones fluidas con GSAP. Además, integra una base de datos en MongoDB para gestionar la información de manera dinámica.',
-      subdesc: 'Este proyecto surge de una clase en YouTube enfocada en el aprendizaje de tecnologías como Next.js y TypeScript, combinadas con TailwindCSS para el diseño. También explora la lógica detrás de un acortador de URLs, mejorando la comprensión de arquitecturas web modernas.',
+      subdesc: 'Este proyecto surge de una actividad del centro donde estudié calificada como Prueba Técnica Junior enfocada en la práctica de animaciones más sincronizadas y complejas, para esta práctica creí que lo conveniente sería hacer uno de GSAP.',
       href: 'https://gsap-ui-cei.vercel.app/',
       texture: '/textures/project/project4.mp4',
       logo: '/assets/project-logo3.png',
